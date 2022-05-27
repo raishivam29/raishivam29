@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm working in an enterprise.
+I'm looking for opportunities.
 
-* 🔭 I’m currently working with  Python, C and tableau 
-* 🌱 I’m currently learning React
-* 👯 I’m looking to collaborate on spring MVC, Django and some of Operating Systems projects
-* 💬 Ask me about web development and Algorithms
-* 📫 How to reach me: PFB
+* 🔭 I’m currently working with  Python, C, tableau , sql and Microsoft Power Bi 
+* 🌱 I’m currently learning Data analysis 
+* 👯 I’m looking to collaborate on EXL for business intelligence devloper course
+* 💬 Ask me about Data analysis using talbeau and Power Bi
+* 📫 How to reach me: raishivam29
 
 # Let's Connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
@@ -33,7 +33,7 @@ I'm working in an enterprise.
 <!-- Thanks to TheDudeThatCode -->
 
 <!--
-**nsky80/nsky80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**raishivam29/raishivam29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
