@@ -6,7 +6,7 @@ I'm looking for opportunities.
 * 🌱 I’m currently learning Data analysis 
 * 👯 I’m looking to collaborate on EXL for business intelligence devloper course
 * 💬 Ask me about Data analysis using tableau and Power Bi
-* 📫 How to reach me: raishivam29
+* 📫 How to reach me: rshivamrai0123@gmail.com
 
 # Let's Connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
